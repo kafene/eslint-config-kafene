@@ -1,8 +1,12 @@
 {
   "name": "eslint-config-kafene",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "kafene eslint rules",
-  "keywords": ["eslint", "eslint-config", "eslintconfig"],
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "eslintconfig"
+  ],
   "license": "MIT",
   "main": "index.js",
   "repository": "https://github.com/kafene/eslint-config-kafene",
